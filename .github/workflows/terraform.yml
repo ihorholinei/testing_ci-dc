@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: cd_testing/vpc
+        working-directory: root
 
     steps:
       - name: Checkout repository
