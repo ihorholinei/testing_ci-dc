@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: vpc
+        working-directory: ./vpc
 
     steps:
       - name: Checkout repository
